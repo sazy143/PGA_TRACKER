@@ -1,0 +1,29 @@
+{
+    "tournament": "Masters",
+    "players": {
+        "bdr": {
+            "rank": 2,
+            "score": -5,
+            "r1": 65,
+            "r2": 70,
+            "r3": 75,
+            "r4": null
+        },
+        "el tigre": {
+            "rank": 1,
+            "score": -10,
+            "r1": 62,
+            "r2": 55,
+            "r3": 69,
+            "r4": null
+        },
+        "phil the thrill": {
+            "rank": 3,
+            "score":0,
+            "r1": 67,
+            "r2": 70,
+            "r3": 75,
+            "r4": null
+        }
+    }
+}
