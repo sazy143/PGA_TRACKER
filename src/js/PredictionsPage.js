@@ -9,8 +9,9 @@ class Predictions extends Component {
     render(){
         
         return(
-            <h1>Predictions for current tournament</h1>
-        
+            <div className='page-content'>
+                <h1>Predictions for current tournament</h1>
+            </div>
         );
         
     }

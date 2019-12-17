@@ -34,10 +34,10 @@ function Main(){
                             <NavLink to = "/future">Future Tournaments</NavLink>
                         </li>
                         <li className='nav-item'>
-                            <NavLink to = "/predictions">Tournament Predictions</NavLink>
+                            <NavLink to = "/past">Past Tournaments</NavLink>
                         </li>
                         <li className='nav-item'>
-                            <NavLink to = "/past">Past Tournaments</NavLink>
+                            <NavLink to = "/predictions">Tournament Predictions</NavLink>
                         </li>
                         <li className='nav-item'>
                             <NavLink to = "/stats">Cool Stats</NavLink>

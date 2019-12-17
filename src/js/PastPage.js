@@ -9,8 +9,9 @@ class Past extends Component {
     render(){
         
         return(
-            <h1>Past Tournaments</h1>
-        
+            <div className='page-content'>
+                <h1>Past Tournaments</h1>
+            </div>
         );
         
     }

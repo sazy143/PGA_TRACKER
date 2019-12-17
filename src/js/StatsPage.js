@@ -9,8 +9,9 @@ class Stats extends Component {
     render(){
         
         return(
-            <h1>Some cool stats</h1>
-        
+            <div className='page-content'>
+                <h1>Some cool stats</h1>
+            </div>
         );
         
     }

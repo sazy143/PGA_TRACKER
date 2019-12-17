@@ -34,7 +34,9 @@ body {
     text-align: center;
     align-items: center;
     background-color: green;
-    font-size: 2em;
+    font-size: 2.2vw;
+    padding: 0 .2em;
+    max-height: 5em;
 }
 .nav-item:hover {
     background-color: rgb(3, 117, 3);
@@ -43,11 +45,13 @@ body {
 #navigation a {
     display: table-cell;
     vertical-align: middle;
-    font-size: 1em;
     text-decoration: none;
     color: black;
 }
 
+.page-content {
+    margin-bottom: 2em;
+}
 .page-content h1, h2, table {
     text-align: center;
     justify-content: center;
@@ -56,9 +60,9 @@ body {
 }
 
 .page-content h1 {
-    margin: .5em auto;
+    margin: 1em auto;
     width: 80vw;
-    font-size: 3em;
+    font-size: 3.5vw;
     border: 2px solid gray;
     box-shadow: 5px 10px gray;
     background-color: lightgray;
@@ -77,7 +81,7 @@ body {
 .player-table th {
     background-color: yellow;
     border: 1px solid black;
-    font-size: 1.5em;
+    font-size: 1.5vw;
     padding: 5px;
     text-transform: uppercase;
 }
@@ -86,7 +90,7 @@ body {
     background-color: lightblue;
     border: 1px solid black;
     border-collapse: collapse;
-    font-size: 1.5em;
+    font-size: 1.5vw;
 }
 
 .player-table tr:hover {
