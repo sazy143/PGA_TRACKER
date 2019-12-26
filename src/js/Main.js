@@ -9,12 +9,12 @@ import {
 import '../css/main.css'
 
 //import the pages
-import CurrentPage from './CurrentPage';
-import LeaderBoard from './LeaderBoardPage';
-import Future from './FuturePage';
-import Predictions from './PredictionsPage';
-import Past from './PastPage';
-import Stats from './StatsPage';
+import CurrentPage from './CurrentPage/CurrentPage';
+import LeaderBoard from './LeaderBoardPage/LeaderBoardPage';
+import Future from './FuturePage/FuturePage';
+import Predictions from './PredictionsPage/PredictionsPage';
+import Past from './PastPage/PastPage';
+import Stats from './StatsPage/StatsPage';
 
 //our main component
 function Main(){
